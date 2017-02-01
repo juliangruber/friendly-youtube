@@ -4,6 +4,6 @@
   "license": "MIT",
   "repository": "juliangruber/friendly-youtube",
   "dependencies": {
-    "ytdl-core": "^0.7.21"
+    "ytdl-core": "^0.8.0"
   }
 }
